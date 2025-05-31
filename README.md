@@ -19,3 +19,12 @@ This Python project generates simple recipes based on input ingredients using ru
 ### ✅ Rule-Based Version (No internet or API required)
 ```bash
 python recipe_generator.py
+
+🧠 Powered By
+Python
+Flask
+OpenAI GPT
+HTML & CSS
+
+📜 License
+This project is for educational purposes.
