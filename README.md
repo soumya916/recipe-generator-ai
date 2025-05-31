@@ -13,13 +13,7 @@ This Python project generates simple recipes based on input ingredients using ru
 - `requirements.txt` - Packages for GPT version
 
 ---
-
-## ▶️ How to Run
-
 ### ✅ Rule-Based Version (No internet or API required)
-```bash
-python recipe_generator.py
-
 🧠 Powered By
 Python
 Flask
@@ -28,3 +22,9 @@ HTML & CSS
 
 📜 License
 This project is for educational purposes.
+
+## ▶️ How to Run
+```bash
+python recipe_generator.py
+
+
